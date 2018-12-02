@@ -1,7 +1,5 @@
-{
-	"items": {
-		"item": [
-			{
+[
+  {
 				"id": "1",
 				"itemName": "Monkey 1",
 				"category": "category1",
@@ -202,5 +200,3 @@
 				"popularity": "5"
 			}
 		]
-	}
-}
