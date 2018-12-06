@@ -7,7 +7,7 @@
 				"description": "The rhesus macaque (Macaca mulatta) is one of the best-known species of Old World monkeys. It is listed as Least Concern in the IUCN Red List of Threatened Species in view of its wide distribution, presumed large population, and its tolerance of a broad range of habitats. Native to South, Central, and Southeast Asia, rhesus macaque have the widest geographic ranges of any nonhuman primate, occupying a great diversity of altitudes and a great variety of habitats, from grasslands to arid and forested areas, but also close to human settlements.",
 				"price": "100",
 				"weight": "1",
-				"popularity": "2"
+				"popularity": "a2"
 			},
 			{
 				"id": "2",
@@ -17,7 +17,7 @@
 				"description": "The rhesus macaque (Macaca mulatta) is one of the best-known species of Old World monkeys. It is listed as Least Concern in the IUCN Red List of Threatened Species in view of its wide distribution, presumed large population, and its tolerance of a broad range of habitats. Native to South, Central, and Southeast Asia, rhesus macaque have the widest geographic ranges of any nonhuman primate, occupying a great diversity of altitudes and a great variety of habitats, from grasslands to arid and forested areas, but also close to human settlements.",
 				"price": "200",
 				"weight": "2",
-				"popularity": "2"
+				"popularity": "a2"
 			},
 			{
 				"id": "3",
@@ -27,7 +27,7 @@
 				"description": "The rhesus macaque (Macaca mulatta) is one of the best-known species of Old World monkeys. It is listed as Least Concern in the IUCN Red List of Threatened Species in view of its wide distribution, presumed large population, and its tolerance of a broad range of habitats. Native to South, Central, and Southeast Asia, rhesus macaque have the widest geographic ranges of any nonhuman primate, occupying a great diversity of altitudes and a great variety of habitats, from grasslands to arid and forested areas, but also close to human settlements.",
 				"price": "300",
 				"weight": "3",
-				"popularity": "3"
+				"popularity": "a3"
 			},
 			{
 				"id": "4",
@@ -37,7 +37,7 @@
 				"description": "The rhesus macaque (Macaca mulatta) is one of the best-known species of Old World monkeys. It is listed as Least Concern in the IUCN Red List of Threatened Species in view of its wide distribution, presumed large population, and its tolerance of a broad range of habitats. Native to South, Central, and Southeast Asia, rhesus macaque have the widest geographic ranges of any nonhuman primate, occupying a great diversity of altitudes and a great variety of habitats, from grasslands to arid and forested areas, but also close to human settlements.",
 				"price": "400",
 				"weight": "4",
-				"popularity": "4"
+				"popularity": "a4"
 			},
 			{
 				"id": "5",
@@ -47,7 +47,7 @@
 				"description": "The rhesus macaque (Macaca mulatta) is one of the best-known species of Old World monkeys. It is listed as Least Concern in the IUCN Red List of Threatened Species in view of its wide distribution, presumed large population, and its tolerance of a broad range of habitats. Native to South, Central, and Southeast Asia, rhesus macaque have the widest geographic ranges of any nonhuman primate, occupying a great diversity of altitudes and a great variety of habitats, from grasslands to arid and forested areas, but also close to human settlements.",
 				"price": "500",
 				"weight": "5",
-				"popularity": "5"
+				"popularity": "a5"
 			},
 			{
 				"id": "6",
@@ -57,7 +57,7 @@
 				"description": "The rhesus macaque (Macaca mulatta) is one of the best-known species of Old World monkeys. It is listed as Least Concern in the IUCN Red List of Threatened Species in view of its wide distribution, presumed large population, and its tolerance of a broad range of habitats. Native to South, Central, and Southeast Asia, rhesus macaque have the widest geographic ranges of any nonhuman primate, occupying a great diversity of altitudes and a great variety of habitats, from grasslands to arid and forested areas, but also close to human settlements.",
 				"price": "600",
 				"weight": "1",
-				"popularity": "1"
+				"popularity": "a1"
 			},
 			{
 				"id": "7",
@@ -67,7 +67,7 @@
 				"description": "The rhesus macaque (Macaca mulatta) is one of the best-known species of Old World monkeys. It is listed as Least Concern in the IUCN Red List of Threatened Species in view of its wide distribution, presumed large population, and its tolerance of a broad range of habitats. Native to South, Central, and Southeast Asia, rhesus macaque have the widest geographic ranges of any nonhuman primate, occupying a great diversity of altitudes and a great variety of habitats, from grasslands to arid and forested areas, but also close to human settlements.",
 				"price": "700",
 				"weight": "2",
-				"popularity": "2"
+				"popularity": "a2"
 			},
 			{
 				"id": "8",
@@ -77,7 +77,7 @@
 				"description": "The rhesus macaque (Macaca mulatta) is one of the best-known species of Old World monkeys. It is listed as Least Concern in the IUCN Red List of Threatened Species in view of its wide distribution, presumed large population, and its tolerance of a broad range of habitats. Native to South, Central, and Southeast Asia, rhesus macaque have the widest geographic ranges of any nonhuman primate, occupying a great diversity of altitudes and a great variety of habitats, from grasslands to arid and forested areas, but also close to human settlements.",
 				"price": "800",
 				"weight": "3",
-				"popularity": "3"
+				"popularity": "a3"
 			},
 			{
 				"id": "9",
@@ -87,7 +87,7 @@
 				"description": "The rhesus macaque (Macaca mulatta) is one of the best-known species of Old World monkeys. It is listed as Least Concern in the IUCN Red List of Threatened Species in view of its wide distribution, presumed large population, and its tolerance of a broad range of habitats. Native to South, Central, and Southeast Asia, rhesus macaque have the widest geographic ranges of any nonhuman primate, occupying a great diversity of altitudes and a great variety of habitats, from grasslands to arid and forested areas, but also close to human settlements.",
 				"price": "900",
 				"weight": "4",
-				"popularity": "4"
+				"popularity": "a4"
 			},
 			{
 				"id": "10",
@@ -97,7 +97,7 @@
 				"description": "The rhesus macaque (Macaca mulatta) is one of the best-known species of Old World monkeys. It is listed as Least Concern in the IUCN Red List of Threatened Species in view of its wide distribution, presumed large population, and its tolerance of a broad range of habitats. Native to South, Central, and Southeast Asia, rhesus macaque have the widest geographic ranges of any nonhuman primate, occupying a great diversity of altitudes and a great variety of habitats, from grasslands to arid and forested areas, but also close to human settlements.",
 				"price": "1000",
 				"weight": "5",
-				"popularity": "5"
+				"popularity": "a5"
 			},
 			{
 				"id": "11",
@@ -107,7 +107,7 @@
 				"description": "The rhesus macaque (Macaca mulatta) is one of the best-known species of Old World monkeys. It is listed as Least Concern in the IUCN Red List of Threatened Species in view of its wide distribution, presumed large population, and its tolerance of a broad range of habitats. Native to South, Central, and Southeast Asia, rhesus macaque have the widest geographic ranges of any nonhuman primate, occupying a great diversity of altitudes and a great variety of habitats, from grasslands to arid and forested areas, but also close to human settlements.",
 				"price": "1100",
 				"weight": "1",
-				"popularity": "1"
+				"popularity": "a1"
 			},
 			{
 				"id": "12",
@@ -117,7 +117,7 @@
 				"description": "The rhesus macaque (Macaca mulatta) is one of the best-known species of Old World monkeys. It is listed as Least Concern in the IUCN Red List of Threatened Species in view of its wide distribution, presumed large population, and its tolerance of a broad range of habitats. Native to South, Central, and Southeast Asia, rhesus macaque have the widest geographic ranges of any nonhuman primate, occupying a great diversity of altitudes and a great variety of habitats, from grasslands to arid and forested areas, but also close to human settlements.",
 				"price": "1200",
 				"weight": "2",
-				"popularity": "2"
+				"popularity": "a2"
 			},
 			{
 				"id": "13",
@@ -127,7 +127,7 @@
 				"description": "The rhesus macaque (Macaca mulatta) is one of the best-known species of Old World monkeys. It is listed as Least Concern in the IUCN Red List of Threatened Species in view of its wide distribution, presumed large population, and its tolerance of a broad range of habitats. Native to South, Central, and Southeast Asia, rhesus macaque have the widest geographic ranges of any nonhuman primate, occupying a great diversity of altitudes and a great variety of habitats, from grasslands to arid and forested areas, but also close to human settlements.",
 				"price": "1300",
 				"weight": "3",
-				"popularity": "3"
+				"popularity": "a3"
 			},
 			{
 				"id": "14",
@@ -137,7 +137,7 @@
 				"description": "The rhesus macaque (Macaca mulatta) is one of the best-known species of Old World monkeys. It is listed as Least Concern in the IUCN Red List of Threatened Species in view of its wide distribution, presumed large population, and its tolerance of a broad range of habitats. Native to South, Central, and Southeast Asia, rhesus macaque have the widest geographic ranges of any nonhuman primate, occupying a great diversity of altitudes and a great variety of habitats, from grasslands to arid and forested areas, but also close to human settlements.",
 				"price": "1400",
 				"weight": "4",
-				"popularity": "4"
+				"popularity": "a4"
 			},
 			{
 				"id": "15",
@@ -147,7 +147,7 @@
 				"description": "The rhesus macaque (Macaca mulatta) is one of the best-known species of Old World monkeys. It is listed as Least Concern in the IUCN Red List of Threatened Species in view of its wide distribution, presumed large population, and its tolerance of a broad range of habitats. Native to South, Central, and Southeast Asia, rhesus macaque have the widest geographic ranges of any nonhuman primate, occupying a great diversity of altitudes and a great variety of habitats, from grasslands to arid and forested areas, but also close to human settlements.",
 				"price": "1500",
 				"weight": "5",
-				"popularity": "5"
+				"popularity": "a5"
 			},
 			{
 				"id": "16",
@@ -157,7 +157,7 @@
 				"description": "The rhesus macaque (Macaca mulatta) is one of the best-known species of Old World monkeys. It is listed as Least Concern in the IUCN Red List of Threatened Species in view of its wide distribution, presumed large population, and its tolerance of a broad range of habitats. Native to South, Central, and Southeast Asia, rhesus macaque have the widest geographic ranges of any nonhuman primate, occupying a great diversity of altitudes and a great variety of habitats, from grasslands to arid and forested areas, but also close to human settlements.",
 				"price": "1600",
 				"weight": "1",
-				"popularity": "1"
+				"popularity": "a1"
 			},
 			{
 				"id": "17",
@@ -167,7 +167,7 @@
 				"description": "The rhesus macaque (Macaca mulatta) is one of the best-known species of Old World monkeys. It is listed as Least Concern in the IUCN Red List of Threatened Species in view of its wide distribution, presumed large population, and its tolerance of a broad range of habitats. Native to South, Central, and Southeast Asia, rhesus macaque have the widest geographic ranges of any nonhuman primate, occupying a great diversity of altitudes and a great variety of habitats, from grasslands to arid and forested areas, but also close to human settlements.",
 				"price": "1700",
 				"weight": "2",
-				"popularity": "2"
+				"popularity": "a2"
 			},
 			{
 				"id": "18",
@@ -177,7 +177,7 @@
 				"description": "The rhesus macaque (Macaca mulatta) is one of the best-known species of Old World monkeys. It is listed as Least Concern in the IUCN Red List of Threatened Species in view of its wide distribution, presumed large population, and its tolerance of a broad range of habitats. Native to South, Central, and Southeast Asia, rhesus macaque have the widest geographic ranges of any nonhuman primate, occupying a great diversity of altitudes and a great variety of habitats, from grasslands to arid and forested areas, but also close to human settlements.",
 				"price": "1800",
 				"weight": "3",
-				"popularity": "3"
+				"popularity": "a3"
 			},
 			{
 				"id": "19",
@@ -187,7 +187,7 @@
 				"description": "The rhesus macaque (Macaca mulatta) is one of the best-known species of Old World monkeys. It is listed as Least Concern in the IUCN Red List of Threatened Species in view of its wide distribution, presumed large population, and its tolerance of a broad range of habitats. Native to South, Central, and Southeast Asia, rhesus macaque have the widest geographic ranges of any nonhuman primate, occupying a great diversity of altitudes and a great variety of habitats, from grasslands to arid and forested areas, but also close to human settlements.",
 				"price": "1900",
 				"weight": "4",
-				"popularity": "4"
+				"popularity": "a4"
 			},
 			{
 				"id": "20",
